@@ -1,0 +1,22 @@
+.button {
+    width: 270px;
+    height: 100px;
+    background-color: #3A4574;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
+    transition: transform .5s;
+}
+
+.button:not(.button_unactive, .button_type_back):hover {
+    background-color: #3A4574;
+}
+
+.button:not(.button_unactive):hover {
+    cursor: pointer;
+    transform: scale(1.05);
+}

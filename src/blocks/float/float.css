@@ -1,0 +1,6 @@
+.float {
+    position: relative;
+    top: 30px;
+    opacity: 0;
+    animation: float-up 1.5s ease forwards;
+}

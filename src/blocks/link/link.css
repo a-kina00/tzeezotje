@@ -1,0 +1,24 @@
+.link {
+    position: relative;
+    text-decoration: none;
+    color: inherit;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0px 1px;
+    transition: background-size .2s linear;
+    cursor: pointer;
+}
+
+.link:active {
+    color: #374146;
+}
+
+link:visited {
+    color: #7B878F;
+}
+
+.link:hover,
+.link:focus {
+    background-size: 100% 1px;
+}

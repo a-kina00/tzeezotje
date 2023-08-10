@@ -1,0 +1,7 @@
+.menu__navigation {
+    margin: 0px 141px 0 125px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 33px;
+    justify-items: center;
+}
