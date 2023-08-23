@@ -1,0 +1,8 @@
+.brochure__grid {
+    max-width: 1170px;
+    display: grid;
+    grid-template-columns: 40% 60%;
+    grid-template-rows: repeat(3, 1fr);
+    gap: 30px;
+    align-items: center;
+}F

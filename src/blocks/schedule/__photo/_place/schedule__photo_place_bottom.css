@@ -1,0 +1,7 @@
+.schedule__photo_place_bottom {
+    position: absolute;
+    right: 257px;
+    top: 101px;
+    background-image: url(../../../../images/photo1.png);
+    z-index: 1;
+}

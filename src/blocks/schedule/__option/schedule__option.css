@@ -1,0 +1,9 @@
+.schedule__option {
+    padding: 20px 0 20px 0;
+    max-width: 470px;
+    border-bottom: 1px solid #E7E7E7;
+}
+
+.schedule__option:first-of-type {
+    padding-top: 0;
+}

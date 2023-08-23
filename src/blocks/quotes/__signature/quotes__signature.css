@@ -1,0 +1,9 @@
+.quotes__signature {
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}

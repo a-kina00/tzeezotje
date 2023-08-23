@@ -1,0 +1,16 @@
+.input {
+  box-sizing: border-box;
+  width: 100%;
+  height: 48px;
+  border: 1px solid #CCCCCC;
+  color: #374045;
+  padding: 28px 16px 28px 16px;
+  text-overflow: ellipsis;
+}
+
+.input::placeholder {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #808080;
+}

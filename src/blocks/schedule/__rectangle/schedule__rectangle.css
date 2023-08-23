@@ -1,0 +1,7 @@
+.schedule__rectangle {
+    position: relative;
+    width: 471px;
+    height: 502px;
+    border: 2px solid #D3B47F;
+    z-index: -1;
+}

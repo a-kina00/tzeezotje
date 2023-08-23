@@ -1,0 +1,11 @@
+.arrow {
+    width: 70px;
+    height: 70px;
+    cursor: pointer;
+    background-image: url(../../images/arrow-white.svg);
+    transition: background-image .2s linear;
+}
+
+.arrow:hover {
+    background-image: url(../../images/arrow-gold.svg);
+}
